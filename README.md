@@ -65,7 +65,7 @@
 
 <div style='margin-bottom: 16px'></div>
 
-<div style="text-align: center;">
+<div align='center'>
   <a href="https://www.codewars.com/users/Timhok0217">
     <img src="https://www.codewars.com/users/Timhok0217/badges/large" alt="codewars">
   </a>

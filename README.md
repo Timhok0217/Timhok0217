@@ -1,34 +1,32 @@
 # <div style='text-align: center; font-size: 50px;'>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=30000&color=39D353&center=true&vCenter=true&weight=500&size=24&lines=Hi+there+👋,+I'm+Timofey+👨‍💻)](https://git.io/typing-svg)</div>
 
-## <u style='text-decoration-color: #39D353;  text-underline-offset: 6px;'>🕴️ **About me**</u>
+<h2 style="text-decoration-color: #39D353; text-underline-offset: 8px;"> <u style="text-decoration-color: #39D353;">🕴️ <b>About me</b></u></h2>
 
 <div style='margin-bottom: 10px'></div>
 
-<style>
-      @media (max-width: 560px) {
-        .flex_cont{
-            flex-direction: column;
-        }
-    }
-    ul {
-        list-style-type: none; 
-    }
-    li::before {
-        content: "•"; 
-        color: #39D353;
-        display: inline-block;
-        width: 1em;
-        margin-left: -1em;
-    }
-</style>
 
-- 💻 Moving towards **Frontend** development
-- 💡 Education: 4th year undergraduate **ITMO** - Information Technology Security
-- 🔭 Open to cooperation in projects and innovative ideas
-- 🎬 I love **movies** and **series** - I have collected a large list of watched
+<ul style="list-style-type: none">
+    <li style="position: relative; padding-left: 1em; margin-bottom: 0.5em">
+        <span style="position: absolute; left: -1em; top: 0; color: #39D353">•</span>
+        💻 Moving towards <b>Frontend</b> development
+    </li>
+    <li style="position: relative; padding-left: 1em; margin-bottom: 0.5em">
+        <span style="position: absolute; left: -1em; top: 0; color: #39D353">•</span>
+        💡 Education: 4th year undergraduate <b>ITMO</b> - Information Technology Security
+    </li>
+    <li style="position: relative; padding-left: 1em; margin-bottom: 0.5em">
+        <span style="position: absolute; left: -1em; top: 0; color: #39D353">•</span>
+        🔭 Open to cooperation in projects and innovative ideas
+    </li>
+    <li style="position: relative; padding-left: 1em; margin-bottom: 0.5em">
+        <span style="position: absolute; left: -1em; top: 0; color: #39D353">•</span>
+        🎬 I love <b>movies</b> and <b>series</b> - I have collected a large list of watched
+    </li>
+</ul>
+
 <hr>
 
-## <u style='text-decoration-color: #39D353;  text-underline-offset: 6px;'>📒 **Contact**</u>
+<h2 style="text-decoration-color: #39D353; text-underline-offset: 8px;"> <u style="text-decoration-color: #39D353;">📒 <b>Contact</b></u></h2>
 
 <div style='margin-bottom: 16px'></div>
 
@@ -36,7 +34,8 @@
 
 <hr>
 
-## <u style='text-decoration-color: #39D353;  text-underline-offset: 8px;'>🛠️ **Languages and Tools**</u>
+
+<h2 style="text-decoration-color: #39D353; text-underline-offset: 8px;"> <u style="text-decoration-color: #39D353;">🛠️ <b>Languages and Tools</b></u></h2>
 
 <div style='margin-bottom: 16px'></div>
 
@@ -66,7 +65,7 @@
 
 <hr>
 
-## <u style='text-decoration-color: #39D353;  text-underline-offset: 8px;'>📈 **Stats**</u>
+<h2 style="text-decoration-color: #39D353; text-underline-offset: 8px;"> <u style="text-decoration-color: #39D353;">📈 <b>Stats</b></u></h2>
 
 <div style='margin-bottom: 16px'></div>
 
@@ -76,7 +75,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timhok0217&theme=github_dark)
 
-  <div style='display:flex; gap: 10px; align-items:center' class='flex_cont'>
+  <div style='display:flex; gap: 10px; align-items:center'>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=timhok0217&theme=github-dark&mode=weekly)](https://git.io/streak-stats)
 

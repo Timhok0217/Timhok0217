@@ -69,17 +69,14 @@
   <a href="https://www.codewars.com/users/Timhok0217">
     <img src="https://www.codewars.com/users/Timhok0217/badges/large" alt="codewars">
   </a>
-  <div style='margin-bottom: 16px'></div>
  
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timhok0217&theme=github_dark" alt="GitHub Profile Summary Cards">
 
-  <div style='margin-bottom: 16px'></div>
   <div style='display:flex; align-items:center; gap:10px; flex-wrap:wrap;'>
     <a href="https://github.com/Timhok0217">
       <img src="https://streak-stats.demolab.com?user=timhok0217&theme=github_dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=450&border=39D353&ring=39D353&fire=1E3FEB&dates=39D353&stroke=39D353&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB" alt="GitHub Streak">
     </a>
-    <div style='margin-bottom: 16px'></div>
     <a href="https://github.com/Timhok0217">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhok0217&size_weight=1&count_weight=0&theme=github_dark&title_color=39D353&text_color=ffffff&hide=powershell&border_color=39D353&layout=compact&card_width=200" alt="Top Languages">
     </a>

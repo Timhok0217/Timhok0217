@@ -80,7 +80,7 @@
       <img src="https://streak-stats.demolab.com?user=timhok0217&theme=github_dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=450&border=39D353&ring=39D353&fire=1E3FEB&dates=39D353&stroke=39D353&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&hide_border=true" alt="GitHub Streak">
     </a>
     <a href="https://github.com/Timhok0217" style="display: inline-block;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhok0217&size_weight=1&count_weight=0&theme=github_dark&title_color=39D353&text_color=ffffff&hide=powershell&border_color=39D353&layout=compact&card_width=200&hide_border=true" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhok0217&size_weight=1&count_weight=0&theme=github_dark&title_color=39D353&text_color=ffffff&hide=powershell&border_color=39D353&layout=compact&card_width=300&hide_border=true" alt="Top Languages">
     </a>
   </div>
 </div>

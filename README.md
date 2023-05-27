@@ -1,10 +1,10 @@
-<h1 align="center" style='font-size:10px'>
+<h3 align="center" style='font-size:10px'>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=30000&color=39D353&center=true&vCenter=true&weight=500&size=24&lines=Hi+there+👋,+I'm+Timofey+👨‍💻)](https://github.com/Timhok0217)
 
-</h1>
+</h3>
 
-<h2 style="text-decoration-color: #39D353; text-underline-offset: 8px;"> <u style="text-decoration-color: #39D353;">🕴️ <b>About me</b></u></h2>
+<h3 style="text-decoration-color: #39D353; text-underline-offset: 8px; font-size:20px"> <u style="text-decoration-color: #39D353;">🕴️ <b>About me</b></u></h3>
 
 <div style='margin-bottom: 10px'></div>
 
@@ -22,7 +22,7 @@
 
 <hr>
 
-<h2 style="text-decoration-color: #39D353; text-underline-offset: 8px;"> <u style="text-decoration-color: #39D353;">📒 <b>Contact</b></u></h2>
+<h3 style="text-decoration-color: #39D353; text-underline-offset: 8px; font-size:20px"> <u style="text-decoration-color: #39D353;">📒 <b>Contact</b></u></h3>
 
 <div style='margin-bottom: 16px'></div>
 
@@ -31,7 +31,7 @@
 <hr>
 
 
-<h2 style="text-decoration-color: #39D353; text-underline-offset: 8px;"> <u style="text-decoration-color: #39D353;">🛠️ <b>Languages and Tools</b></u></h2>
+<h3 style="text-decoration-color: #39D353; text-underline-offset: 8px;font-size:20px"> <u style="text-decoration-color: #39D353;">🛠️ <b>Languages and Tools</b></u></h3>
 
 <div style='margin-bottom: 16px'></div>
 
@@ -61,7 +61,8 @@
 
 <hr>
 
-<h2 style="text-decoration-color: #39D353; text-underline-offset: 8px;"> 📈 <b>Stats</b></h2>
+
+<h3 style="text-decoration-color: #39D353; text-underline-offset: 8px; font-size:20px"> 📈 <b>Stats</b></h3>
 
 <div style='margin-bottom: 16px'></div>
 

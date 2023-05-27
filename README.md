@@ -71,11 +71,9 @@
   </a>
   <br>
   <br>
-  <br>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timhok0217&theme=github_dark" alt="GitHub Profile Summary Cards">
 
-  <br>
-  <br>
   <br>
   <div style="display: inline-block;">
     <a href="https://github.com/Timhok0217" style="display: inline-block; margin-right: 10px;">

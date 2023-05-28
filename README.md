@@ -37,27 +37,30 @@
 
 ### **Main**
 
-[![TypeScript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript&logoColor=#28A8E8)](https://learn.javascript.ru/)
-[![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=#28A8E8)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://github.com/Timhok0217)
+[![JavaScript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript&logoColor=#28A8E8)](https://github.com/Timhok0217)
+[![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=#28A8E8)](https://github.com/Timhok0217)
+[![Node.JS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=#28A8E8)](https://github.com/Timhok0217)
 [![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=764ABC)](https://redux.js.org/)
-[![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=axios&logoColor=671DDF)](https://axios-http.com/)
-[![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=tailwindcss&logoColor=#28A8E8)](https://tailwindcss.com/)
-[![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=#28A8E8)](https://firebase.google.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=699ECA)](https://www.postgresql.org/)
-[![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=#28A8E8)](http://htmlbook.ru/html5)
-[![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm&logoColor=#28A8E8)](https://www.npmjs.com/)
-[![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=#28A8E8)](https://git-scm.com/)
+[![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=axios&logoColor=671DDF)](https://github.com/Timhok0217)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=tailwindcss&logoColor=#28A8E8)](https://github.com/Timhok0217)
+[![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=#28A8E8)](https://github.com/Timhok0217)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=699ECA)](https://github.com/Timhok0217)
+[![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=#28A8E8)](https://github.com/Timhok0217)
+[![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=2449D8)](https://github.com/Timhok0217)
+[![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm&logoColor=#28A8E8)](https://github.com/Timhok0217)
+[![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=#28A8E8)](https://github.com/Timhok0217)
 [![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logoColor=#28A8E8)](https://github.com/Timhok0217)
 
 ### **Extra**
 
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=#28A8E8)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c&logoColor=#28A8E8)](https://habr.com/ru/hub/cpp/)
-[![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=0C4B33)](https://www.djangoproject.com/)
-[![Swiper](https://img.shields.io/badge/-Swiper-090909?style=for-the-badge&logo=swiper&logoColor=0080FF)](https://swiperjs.com/)
-[![Latex](https://img.shields.io/badge/-Latex-090909?style=for-the-badge&logo=latex&logoColor=008080)](https://www.latex-project.org/)
-[![Markdown](https://img.shields.io/badge/-markdown-090909?style=for-the-badge&logo=markdown&logoColor=#28A8E8)](https://www.markdownguide.org/)
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=#28A8E8)](https://github.com/Timhok0217)
+[![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=#28A8E8)](https://github.com/Timhok0217/)
+[![C](https://img.shields.io/badge/-c-090909?style=for-the-badge&logo=c&logoColor=#28A8E8)](https://github.com/Timhok0217)
+[![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=0C4B33)](https://github.com/Timhok0217)
+[![Swiper](https://img.shields.io/badge/-Swiper-090909?style=for-the-badge&logo=swiper&logoColor=0080FF)](https://github.com/Timhok0217)
+[![Latex](https://img.shields.io/badge/-Latex-090909?style=for-the-badge&logo=latex&logoColor=008080)](https://github.com/Timhok0217)
+[![Markdown](https://img.shields.io/badge/-markdown-090909?style=for-the-badge&logo=markdown&logoColor=#28A8E8)](https://github.com/Timhok0217)
 
 <hr>
 
@@ -68,7 +71,7 @@
 
 <div align='center'>
   <a href="https://www.codewars.com/users/Timhok0217">
-    <img src="https://www.codewars.com/users/Timhok0217/badges/large" alt="codewars">
+    <img src="https://www.codewars.com/users/Timhok0217/badges/small" alt="codewars">
   </a>
   <br>
   <br>
